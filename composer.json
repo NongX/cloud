@@ -1,0 +1,15 @@
+{
+    "name": "nakarin/cloud",
+    "autoload": {
+        "psr-4": {
+            "Nakarin\\Cloud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "boomsuphan",
+            "email": "52275366+boomsuphan@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
